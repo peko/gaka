@@ -1,2 +1,2 @@
-# gaka
-Artificial painter, 画家
+# 画家
+Artificial painter, 
